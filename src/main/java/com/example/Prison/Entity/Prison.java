@@ -1,5 +1,7 @@
 package com.example.Prison.Entity;
 
+import org.springframework.web.bind.annotation.RequestMapping;
+
 import javax.persistence.*;
 
 @Entity
